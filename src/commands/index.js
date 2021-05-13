@@ -20,8 +20,7 @@ const commands = {
 	tk,
 	tkremove,
 	tkinfo,
-	tkreset,
-	tkurgay
+	tkreset
 };
 
 module.exports = async (msg) => {
